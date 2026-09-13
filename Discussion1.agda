@@ -3,17 +3,6 @@
 {-
   Welcome to Agda! :-)
 
-  If you are new to Agda, you could play The HoTT Game, a tutorial for learning
-  Agda and homotopy type theory. You can start the game using the "Help" menu
-  and then navigating to a file such as 1FundamentalGroup/Quest0.agda. You
-  will also need to open the accompanying guide in your browser:
-  https://thehottgameguide.readthedocs.io/
-
-  This editor runs on agdapad.quasicoherent.io. Your Agda code is stored on
-  this server and should be available when you revisit the same Agdapad session.
-  However, absolutely no guarantees are made. You should make backups by
-  downloading (see the clipboard icon in the lower right corner).
-
   C-c C-l          check file
   C-c C-SPC        check hole
   C-c C-,          display goal and context
@@ -26,12 +15,7 @@
   C-x C-+          increase font size
   \bN \alpha \to   math symbols
 
-  "C-c" means "<Ctrl key> + c". In case your browser is intercepting C-c,
-  you can also use C-o. In case your browser in intercepting C-SPC, you can
-  also use C-p. For pasting code into the Agdapad, see the clipboard
-  icon in the lower right corner.
-
-  In text mode, use <F10> to access the menu bar, not the mouse.
+  "C-c" means "<Ctrl key> + c". 
 -}
 module Discussion1 where
 
