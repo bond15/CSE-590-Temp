@@ -33,7 +33,7 @@
 
   In text mode, use <F10> to access the menu bar, not the mouse.
 -}
-module Syntax.NamedUntyped where
+module Discussion1 where
 
 open import Agda.Primitive using () renaming (Set to Type)
 
